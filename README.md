@@ -1,4 +1,4 @@
-![logo](https://github.com/Susmitv/Susmitv/blob/main/wq.gif)
+![logo](https://github.com/Susmitv/Susmitv/blob/main/wq.mp4)
 <h1 align="center">Hi 👋, I'm Susmit Vaidya</h1>
 <h3 align="center">A Passionate Developer in India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
