@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susmitv&label=Profile%20views&color=0e75b6&style=flat" alt="susmitv" /> </p>
 
-- 🔭 I’m currently working on **Shikshan(a gamified learning platform))**
+- 🔭 I’m currently working on **Gyanify(a gamified learning platform))**
 
 - 🌱 I’m currently learning **Python Django(backend)**
 
